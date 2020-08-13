@@ -16,7 +16,9 @@ export const Nav = styled.nav`
     display: flex;
   
     li {
-      margin: 10px;
+      margin: 10px 30px 10px 10px;
+      color: #fff;
+      list-style: none;
     }
   }
 `;

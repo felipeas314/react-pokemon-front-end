@@ -11,9 +11,7 @@ const Header = () => {
       <img src={Logo} alt="Logo Pokemon" />
       <ul>
         <li><a>Sobre</a></li>
-        <li><a>Sobre</a></li>
-        <li><a>Sobre</a></li>
-        <li><a>Sobre</a></li>
+        <li><a>Contato</a></li>
       </ul>
     </Nav>
   )
